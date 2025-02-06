@@ -4,18 +4,18 @@ public class Hardcover_Calculation: MonoBehaviour
 {
     [Header("80g")]
     [SerializeField]
-    private PriceFactor_SO[] black_80_pagePrices;
+    private PaperPriceFactor_SO[] black_80_pagePrices;
     [SerializeField]
-    private PriceFactor_SO[] color_80_pagePrices;
+    private PaperPriceFactor_SO[] color_80_pagePrices;
     [Header("120g")]
     [SerializeField]
-    private PriceFactor_SO[] black_120_pagePrices;
+    private PaperPriceFactor_SO[] black_120_pagePrices;
     [SerializeField]
-    private PriceFactor_SO[] color_120_pagePrices;
+    private PaperPriceFactor_SO[] color_120_pagePrices;
 
     [Header("Binding Art")]
     [SerializeField]
-    private PriceFactor_SO[] bindingArtPrices;
+    private PaperPriceFactor_SO[] bindingArtPrices;
 
     // Start is called before the first frame update
     void Start()

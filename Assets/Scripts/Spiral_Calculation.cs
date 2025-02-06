@@ -4,18 +4,18 @@ public class Spiral_Calculation: MonoBehaviour
 {
     [Header("80g")]
     [SerializeField]
-    private PriceFactor_SO[] black_80_pagePrices;
+    private PaperPriceFactor_SO[] black_80_pagePrices;
     [SerializeField]
-    private PriceFactor_SO[] color_80_pagePrices;
+    private PaperPriceFactor_SO[] color_80_pagePrices;
     [Header("120g")]
     [SerializeField]
-    private PriceFactor_SO[] black_120_pagePrices;
+    private PaperPriceFactor_SO[] black_120_pagePrices;
     [SerializeField]
-    private PriceFactor_SO[] color_120_pagePrices;
+    private PaperPriceFactor_SO[] color_120_pagePrices;
 
     [Header("Binding Art")]
     [SerializeField]
-    private PriceFactor_SO[] bindingArtPrices;
+    private PaperPriceFactor_SO[] bindingArtPrices;
 
     //Bool value to check if it's 80g, if not it means it's 120g
     [SerializeField]
