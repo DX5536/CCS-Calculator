@@ -23,3 +23,21 @@ MonoBehaviour:
   price_24mm: -1
   price_28mm: -1
   price_32mm: -1
+  paper80_5mm: 35
+  paper80_7mm: 55
+  paper80_10mm: 85
+  paper80_13mm: 110
+  paper80_16mm: 140
+  paper80_20mm: -1
+  paper80_24mm: -1
+  paper80_28mm: -1
+  paper80_32mm: -1
+  paper120_5mm: 30
+  paper120_7mm: 45
+  paper120_10mm: 65
+  paper120_13mm: 85
+  paper120_16mm: 110
+  paper120_20mm: -1
+  paper120_24mm: -1
+  paper120_28mm: -1
+  paper120_32mm: -1

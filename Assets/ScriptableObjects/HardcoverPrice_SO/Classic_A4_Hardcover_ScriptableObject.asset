@@ -23,3 +23,21 @@ MonoBehaviour:
   price_24mm: 15.95
   price_28mm: 22.95
   price_32mm: 23.95
+  paper80_5mm: 35
+  paper80_7mm: 55
+  paper80_10mm: 85
+  paper80_13mm: 110
+  paper80_16mm: 140
+  paper80_20mm: 180
+  paper80_24mm: 220
+  paper80_28mm: 250
+  paper80_32mm: 300
+  paper120_5mm: 30
+  paper120_7mm: 45
+  paper120_10mm: 65
+  paper120_13mm: 85
+  paper120_16mm: 110
+  paper120_20mm: 140
+  paper120_24mm: 170
+  paper120_28mm: 200
+  paper120_32mm: 230
