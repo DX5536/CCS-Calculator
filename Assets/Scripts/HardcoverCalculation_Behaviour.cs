@@ -5,10 +5,10 @@ public class HardcoverCalculation_Behaviour: MonoBehaviour
 {
     [SerializeField]
     private Toggle isEuropa;
-
     [Header("How many pages are there?")]
     [SerializeField]
-    private int currentPageAmount;
+    private PagesAmount_SO currentPagesAmount;
+
     [Header("READONLY_ Is Hardcover Europa? If not, then Classic")]
     [SerializeField]
     private bool isCurrentHardcoverEuropa;
@@ -59,6 +59,7 @@ public class HardcoverCalculation_Behaviour: MonoBehaviour
     {
 
     }
+
 
     public void OnHardcover_Calculation()
     {
